@@ -1,0 +1,34 @@
+:root{
+    --bg-nav: #4141df;
+}
+
+/*commento*/
+nav {
+    background-color: var(--bg-nav);
+}
+
+main {
+    background-color: rgb(150, 60, 7);
+}
+aside {
+    background-color: blueviolet;
+}
+
+.primo{
+    background-color: chartreuse;
+    width: 200px;
+    height: 100px;
+}
+.secondo{
+    background-color: lightcoral;
+    width: 200px;
+    height: 100px;
+}
+.terzo {
+    background-color: black;
+    width: 200px;
+    height: 100px;
+}
+div{
+    background-color: firebrick;
+}
